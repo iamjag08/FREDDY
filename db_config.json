@@ -1,0 +1,8 @@
+{
+	"username": "demouser",
+	"password": "demopass",
+	"host": "localhost",
+	"db_name": "demodb",
+	"batch_size": 50000,
+	"log": ""
+}
